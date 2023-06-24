@@ -1,7 +1,7 @@
 import json
 
 # Открываем файл QA.json
-with open('QA.json', 'r') as file:
+with open('Qa engineer.json', 'r') as file:
     data = json.load(file)
 
 # Инициализируем счетчик навыков
